@@ -89,14 +89,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.0.7"
-  dna_blog:
-    dependency: "direct main"
-    description:
-      name: dna_blog
-      sha256: b97de6c6be5de8b5cdb6347f4ff286b2f4f485b2e78857d7cf43ac4fc7634165
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.1.1"
   dna_clean_code:
     dependency: "direct main"
     description:
@@ -161,14 +153,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.2.2"
-  dna_translate:
-    dependency: "direct main"
-    description:
-      name: dna_translate
-      sha256: "32d468473e71ba927acda3fcb970df4e00775fcdbc4609195f7cace0bf3c2b5b"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.1.1"
   dna_vscode:
     dependency: "direct main"
     description:

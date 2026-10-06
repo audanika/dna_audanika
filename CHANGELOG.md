@@ -1,15 +1,21 @@
 # Changelog
 
+## Unreleased
+
+### Removed
+
+- Remove dna_translate layer
+
 ## 0.1.2 - 2026-10-01
 
 ### Changed
 
 - Raise all topic layers to their current releases, among them `dna_gg`
-  0.6.0: `/gg-ticket` asks whether the ticket repos are picked
-  automatically or entered by hand, and the AI keeps
-  `.gg/publish_config.json` up to date, so `gg do commit` and
-  `gg do publish` start with a prefilled commit message, merge message and
-  version increment
+0.6.0: `/gg-ticket` asks whether the ticket repos are picked
+automatically or entered by hand, and the AI keeps
+`.gg/publish_config.json` up to date, so `gg do commit` and
+`gg do publish` start with a prefilled commit message, merge message and
+version increment
 - Raise `helix` to 1.9.0
 
 ## 0.1.1 - 2026-09-07
