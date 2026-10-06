@@ -58,14 +58,6 @@
       "hash": "0xacaa785dad36b047"
     },
     {
-      "name": "dna-scripts",
-      "package": "dna_scripts",
-      "ecosystem": "pub",
-      "resolvedVersion": "0.2.2",
-      "via": null,
-      "hash": "0xe3092339b83504a1"
-    },
-    {
       "name": "dna-gg",
       "package": "dna_gg",
       "ecosystem": "pub",
