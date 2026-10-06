@@ -2,7 +2,6 @@ name: dna_audanika
 description: "DNA of all audanika repos: every topic layer in one dependency"
 version: 0.0.0
 repository: https://github.com/audanika-private/dna_audanika.git
-publish_to: none
 
 environment:
   sdk: ">=3.13.0 <4.0.0"
