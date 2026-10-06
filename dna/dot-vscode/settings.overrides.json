@@ -1,0 +1,11 @@
+{
+  // The audanika settings dna_vscode does not carry. luanpotter.dart-import
+  // is already recommended there, its on-save fix is what the aud_* repos
+  // switch on; the .dot formatter belongs to the graphviz extensions added
+  // in extensions.json.overrides.json.
+  "dartImport.fixOnSave": true,
+  "dartImport.showErrorMessages": false,
+  "[dot]": {
+    "editor.defaultFormatter": "tintinweb.graphviz-interactive-preview"
+  }
+}
