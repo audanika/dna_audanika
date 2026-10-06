@@ -1,0 +1,12 @@
+{
+  // The graphviz toolchain every aud_* repo recommends: the .dot sources
+  // next to the code are read and previewed with these four. dna_vscode
+  // knows nothing about them, so they are appended here instead of
+  // replacing the inherited list.
+  "recommendations+": [
+    "stephanvs.dot",
+    "tintinweb.graphviz-interactive-preview",
+    "geeklearningio.graphviz-markdown-preview",
+    "bmlsolutions.dotuml"
+  ]
+}
