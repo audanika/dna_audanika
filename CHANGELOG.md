@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+### Changed
+
+- Make dna_audanika public
+
 ## 0.1.3 - 2026-10-04
 
 ### Changed
