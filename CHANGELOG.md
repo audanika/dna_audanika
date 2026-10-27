@@ -9,6 +9,7 @@
 ### Changed
 
 - Replace license by MIT license
+- Upgrade the DNA layers to their latest versions
 
 ### Fixed
 
