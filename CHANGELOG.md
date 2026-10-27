@@ -1,10 +1,17 @@
 # Changelog
 
-## Unreleased
+## 0.1.0 - 2026-10-27
+
+### Added
+
+- Add the dna_blog layer
+- Add the dna_translate layer
 
 ### Changed
 
 - Replace license by MIT license
+- Upgrade the DNA layers to their latest versions
+- Document the blog and translate layers
 
 ### Fixed
 

@@ -9,6 +9,10 @@
   "dnaGitOrg": "audanika-private",
   "dnaJiraPrefix": "AUD",
 
+  // The job name of the quick check workflow and the status check the
+  // GitHub ruleset requires; dna_github asks every layer below for it.
+  "dnaGitQuickCheckPipelineName": "Quick Check",
+
   // Spelled out instead of inheriting "https://github.com/dnaGitOrg":
   // a reference renders the value in the casing of the reference, so the
   // lowerCamel dnaGitOrg would turn audanika-private into audanikaPrivate
