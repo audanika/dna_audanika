@@ -5,7 +5,7 @@
       "name": "base",
       "package": "helix",
       "ecosystem": null,
-      "resolvedVersion": "1.11.0",
+      "resolvedVersion": "1.14.0",
       "via": null,
       "hash": "0x6883da335b415f9d"
     },
@@ -34,6 +34,14 @@
       "hash": "0x1d92b0add37a1ac7"
     },
     {
+      "name": "dna-blog",
+      "package": "dna_blog",
+      "ecosystem": "pub",
+      "resolvedVersion": "0.3.0",
+      "via": null,
+      "hash": "0x49bf0909e92d37bb"
+    },
+    {
       "name": "dna-install",
       "package": "dna_install",
       "ecosystem": "pub",
@@ -45,9 +53,9 @@
       "name": "dna-vscode",
       "package": "dna_vscode",
       "ecosystem": "pub",
-      "resolvedVersion": "0.2.3",
+      "resolvedVersion": "0.2.4",
       "via": null,
-      "hash": "0x29fdd0bc52e50e39"
+      "hash": "0x9a76a39efcd34360"
     },
     {
       "name": "dna-clean-code",
@@ -86,9 +94,17 @@
     "claudeMdInclude": null,
     "claudeMdFromDna": true
   },
-  "baseVersion": "1.11.0",
+  "baseVersion": "1.14.0",
   "baseHash": "0x6883da335b415f9d",
   "instances": [
+    {
+      "path": ".claude/CLAUDE_dna_gg.md",
+      "hash": "0x3005dc35e6f9e769"
+    },
+    {
+      "path": ".claude/skills/blog/SKILL.md",
+      "hash": "0x0406dd0fa1bde2a1"
+    },
     {
       "path": ".claude/skills/code/SKILL.md",
       "hash": "0xecdcaf68a545dbc6"
@@ -172,6 +188,10 @@
     {
       "path": "LICENSE",
       "hash": "0xeadf5bdb5784b340"
+    },
+    {
+      "path": "doc/guides/blog-guide.md",
+      "hash": "0xa1c0d64e4f51eecd"
     },
     {
       "path": "doc/guides/code-guide-dart.md",
@@ -288,6 +308,10 @@
     {
       "path": "doc/guides/vscode-guide.md",
       "hash": "0x93b9344290ecc83b"
+    },
+    {
+      "path": "doc/templates/blog-template.md",
+      "hash": "0xd188789df19cc2bc"
     },
     {
       "path": "doc/templates/index-template.jsonc",
