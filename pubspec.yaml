@@ -7,6 +7,7 @@ environment:
   sdk: ">=3.13.0 <4.0.0"
 
 dependencies:
+  dna_blog: ^0.3.0
   dna_clean_code: ^0.1.2
   dna_gg: ^0.7.1
   dna_guides: ^0.1.2

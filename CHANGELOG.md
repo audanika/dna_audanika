@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Added
+
+- Add the dna_blog layer
+
 ### Changed
 
 - Replace license by MIT license

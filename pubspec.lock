@@ -97,6 +97,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.0.8"
+  dna_blog:
+    dependency: "direct main"
+    description:
+      name: dna_blog
+      sha256: ec676f751442e6f1b0e2423e76554341a04c11000ba743142ff884b939ed321b
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.0"
   dna_clean_code:
     dependency: "direct main"
     description:
