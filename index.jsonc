@@ -13,7 +13,7 @@
 
   // 1-3 bullet points: the problem space.
   "domain": [
-    "DNA composition: readme, guides, index, blog, install, vscode, clean code, gg workflow, github",
+    "DNA composition: readme, guides, index, blog, translate, install, vscode, clean code, gg workflow, github",
     "Audanika identity as dna vars: company, copyright holder, GitHub org and URL, ticket prefix",
     "Shared LICENSE placed into every audanika repo"
   ],
@@ -27,6 +27,7 @@
       "dna_guides": "developer and AI guides",
       "dna_index": "index.jsonc template and guide",
       "dna_blog": "blog guide, post template, /blog skill",
+      "dna_translate": "translate guide, german post template, /translate skill",
       "dna_install": "install guides",
       "dna_vscode": "editor settings and extensions",
       "dna_clean_code": "code and test conventions",

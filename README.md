@@ -15,6 +15,7 @@ settings, the clean code and test conventions, and the gg workflow.
 | [dna_guides](https://github.com/ggdna/dna_guides)         | developer and AI guides                                  |
 | [dna_index](https://github.com/ggdna/dna_index)           | index and navigation files                               |
 | [dna_blog](https://github.com/ggdna/dna_blog)             | blog guide, post template and the /blog skill            |
+| [dna_translate](https://github.com/ggdna/dna_translate)   | translate guide, german post template, /translate skill  |
 | [dna_install](https://github.com/ggdna/dna_install)       | install guides: editor, node, Azure, tooling             |
 | [dna_vscode](https://github.com/ggdna/dna_vscode)         | shared editor settings and extensions                    |
 | [dna_clean_code](https://github.com/ggdna/dna_clean_code) | how code is written and tested, incl. the Dart specifics |

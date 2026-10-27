@@ -161,6 +161,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.3.1"
+  dna_translate:
+    dependency: "direct main"
+    description:
+      name: dna_translate
+      sha256: c6c72c756b93377e6d4232c4e773fe9ed478da5570e9b1680b9bf4e4f1d345de
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.0"
   dna_vscode:
     dependency: "direct main"
     description:

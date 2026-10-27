@@ -5,6 +5,7 @@
 ### Added
 
 - Add the dna_blog layer
+- Add the dna_translate layer
 
 ### Changed
 
