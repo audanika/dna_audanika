@@ -42,6 +42,14 @@
       "hash": "0x49bf0909e92d37bb"
     },
     {
+      "name": "dna-translate",
+      "package": "dna_translate",
+      "ecosystem": "pub",
+      "resolvedVersion": "0.3.0",
+      "via": null,
+      "hash": "0xfec6f71367d12db6"
+    },
+    {
       "name": "dna-install",
       "package": "dna_install",
       "ecosystem": "pub",
@@ -176,6 +184,10 @@
     {
       "path": ".claude/skills/test/SKILL.md",
       "hash": "0x46d82c5f692cc687"
+    },
+    {
+      "path": ".claude/skills/translate/SKILL.md",
+      "hash": "0x757442d517dd8156"
     },
     {
       "path": ".claude/skills/vscode/SKILL.md",
@@ -326,8 +338,16 @@
       "hash": "0x89b778267e35ad67"
     },
     {
+      "path": "doc/guides/translate-guide.md",
+      "hash": "0x6b1c0c15d36790c9"
+    },
+    {
       "path": "doc/guides/vscode-guide.md",
       "hash": "0x93b9344290ecc83b"
+    },
+    {
+      "path": "doc/templates/blog-template-de.md",
+      "hash": "0xcf9a1c7dd9338ed7"
     },
     {
       "path": "doc/templates/blog-template.md",
