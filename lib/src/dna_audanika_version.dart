@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `dna_audanika` package.
-const String dnaAudanikaVersion = '0.0.1';
+const String dnaAudanikaVersion = '0.1.0';
