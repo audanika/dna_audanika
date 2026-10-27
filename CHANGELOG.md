@@ -11,6 +11,7 @@
 
 - Replace license by MIT license
 - Upgrade the DNA layers to their latest versions
+- Document the blog and translate layers
 
 ### Fixed
 
